@@ -5,7 +5,7 @@
 
 Blog Link: http://programmerblog.net/
 
-Article link:
+Article link: http://programmerblog.net/nodejs-https-server/
 
 Following tasks are performed in this tutorial:
 
@@ -27,6 +27,6 @@ Following tasks are performed in this tutorial:
   
   5. Add https protocol to application.
   
-  Detailed Tutorial:
+  Detailed Tutorial: http://programmerblog.net/nodejs-https-server/
   
   
